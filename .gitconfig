@@ -1,0 +1,6 @@
+[user]
+	name = Luis Trejo
+	email = t88636565+TrejoLuis@users.noreply.github.com
+[core]
+	editor = nvim
+	autocrlf = input
